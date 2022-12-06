@@ -1,6 +1,6 @@
 # appshopping
 
-A new Flutter project.
+This is my first build UI project ecommerce. now i'm continue to make UI design for more
 
 ## Getting Started
 
